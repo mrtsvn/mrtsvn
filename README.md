@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I like play guitar, camping and play video-games.**
 
-My first game I made for educational purposes. I am aware of the shortcomings. It was a project that I used as a test board to use many things I learned.
+I made my first project for educational purposes. I am aware of the shortcomings. I use many things that i've learned in this project.
 
 - First video from game: https://youtu.be/bH3tyEcu8Dg // My first game I made for educational purposes. I am aware of the shortcomings. It was a project that I used as a test board to use many things I learned.
 
